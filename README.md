@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Santiago  ✨ </h1> 
+<h1 align="center">Hola 👋  Soy Santiago  ✨ </h1> 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santiago-sosa-2004smws" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,9 +8,16 @@
 </p>
 <br>
 
+<h3 align="center">¡Bienvenido a mi perfil de GitHub! 👨‍💻</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ingeniero+TI;Amante+de+Linux+y+la+infraestructura;Aprendiendo+todos+los+d%C3%ADas" alt="Typing SVG" />
+</p>
+
 <h2>Sobre mí 😃</h2>
 <p align="left">
-🎓 Ingeniero en Tecnologías de la Información por la PUCE sede Esmeraldas. Me apasiona la infraestructura tecnológica, los servidores, la automatización y la ciberseguridad.
+🎓 Ingeniero en Tecnologías de la Información por la PUCE sede Esmeraldas. 
+<br>
+🧠 Me apasiona la infraestructura tecnológica, los servidores, la automatización y la ciberseguridad.
 <br>
 📫 Contacto: sosamejiasantiago@gmail.com
 </p>
@@ -18,18 +25,28 @@
 
 <h2>Habilidades técnicas 🔧</h2>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py,cpp,nodejs,php,mysql,mongodb,postgres,sqlite,mariadb,linux,docker,git,vscode,apache,bash,nginx&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,cpp,nodejs,php,mysql,mongodb,postgres&theme=light" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,bash,nginx&theme=light" />
 </p>
 <ul>
   <li><strong>Lenguajes de programación:</strong> C/C++, Python, JavaScript (Node.js), PHP</li>
-  <li><strong>Bases de datos:</strong> PostgreSQL, MongoDB, MariaDB, MySQL, SQLite</li>
-  <li><strong>Servidores y web:</strong> Apache, Nginx, hosting en VPS, configuración de entornos LAMP/LEMP, administración de servicios web</li>
+  <li><strong>Bases de datos:</strong> PostgreSQL, MongoDB, MySQL, SQLite</li>
+  <li><strong>Servidores y web:</strong> Apache, Nginx, VPS, LAMP/LEMP, servicios cloud</li>
   <li><strong>Distribuciones Linux:</strong> Debian, Ubuntu, Kali Linux</li>
-  <li><strong>Redes e infraestructura:</strong> Diseño y configuración de redes, VLANs, administración de routers/switches, firewalls (iptables, UFW), monitoreo con Wireshark y Nmap</li>
-  <li><strong>Ciberseguridad:</strong> Análisis de vulnerabilidades, pruebas de penetración básicas, hardening de servidores, uso de herramientas como Metasploit, Burp Suite</li>
-  <li><strong>Herramientas y otras:</strong> Git, Bash, Visual Studio Code, Docker, gestión de entornos virtualizados</li>
+  <li><strong>Redes e infraestructura:</strong> VLANs, routers/switches, firewalls, Wireshark, Nmap</li>
+  <li><strong>Ciberseguridad:</strong> Vulnerabilidades, pentesting básico, hardening, Metasploit</li>
+  <li><strong>Microcontroladores:</strong> Programación y control con ESP32 y ESP8266 (ESP-IDF y Arduino Core)</li>
+  <li><strong>Herramientas:</strong> Git, Bash, Visual Studio Code, Docker, automatización</li>
+</ul>
+<br>
+
+<h2>📚 Actualmente aprendiendo</h2>
+<ul>
+  <li>Ansible y automatización de servidores</li>
+  <li>Gestión y seguridad de redes</li>
+  <li>Seguridad ofensiva (Metasploit, Kali Linux)</li>
+  <li>Desarrollo IoT avanzado con ESP-IDF y FreeRTOS</li>
 </ul>
 <br>
 
@@ -42,12 +59,12 @@
 
 <h2>GitHub :octocat:</h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=unsimpledev&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waltersosa&show_icons=true&theme=dark" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltersosa&theme=dark&hide_border=false" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersosa&theme=dark&layout=compact" />
   <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=unsimpledev&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=waltersosa&theme=dracula&hide_border=true" />
 </p>
 <br>
