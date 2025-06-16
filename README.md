@@ -64,7 +64,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltersosa&theme=dark&hide_border=false" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersosa&theme=dark&layout=compact" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=waltersosa&theme=dracula&hide_border=true" />
 </p>
 <br>
