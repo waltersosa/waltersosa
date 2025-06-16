@@ -10,14 +10,14 @@
 
 <h3 align="center">¡Bienvenido a mi perfil de GitHub! 👨‍💻</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ingeniero+TI;Amante+de+Linux+y+la+infraestructura;Aprendiendo+todos+los+d%C3%ADas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ingeniero+TI;Orgullosamente+ecuatoriano;Amante+de+Linux+y+la+infraestructura;Aprendiendo+todos+los+d%C3%ADas" alt="Typing SVG" />
 </p>
 
 <h2>Sobre mí 😃</h2>
 <p align="left">
-🎓 Ingeniero en Tecnologías de la Información por la PUCE sede Esmeraldas. 
+🎓 Ingeniero en Tecnologías de la Información por la PUCE sede Esmeraldas (Ecuador). 
 <br>
-🧠 Me apasiona la infraestructura tecnológica, los servidores, la automatización y la ciberseguridad.
+🧠 Me apasiona la infraestructura tecnológica, los servidores, la automatización, la electrónica e IoT.
 <br>
 📫 Contacto: sosamejiasantiago@gmail.com
 </p>
@@ -57,11 +57,16 @@
 </ul>
 <br>
 
-  
+<h2>GitHub :octocat:</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=waltersosa&show_icons=true&theme=dark" />
   <br><br>
-  <h2>🏆 Repositorios con mayor contribución</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waltersosa&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltersosa&theme=dark&hide_border=false" />
   <br><br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=waltersosa&limit=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersosa&theme=dark&layout=compact" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=waltersosa&theme=dracula&hide_border=true" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=waltersosa&theme=radical&row=1&column=7&margin-w=10&margin-h=10" />
 </p>
 <br>
