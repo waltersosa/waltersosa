@@ -57,16 +57,33 @@
 </ul>
 <br>
 
-<h2>GitHub :octocat:</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltersosa&show_icons=true&theme=dark" />
+<h2>📊 Actividad y estadísticas de GitHub</h2>
+
+<div align="center">
+  <!-- Estadísticas principales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=waltersosa&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Estadísticas+de+GitHub" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltersosa&theme=dark&hide_border=false" />
+
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersosa&layout=compact&theme=tokyonight&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersosa&theme=dark&layout=compact" />
+
+  <!-- Racha de commits -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltersosa&theme=tokyonight&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=waltersosa&theme=dracula&hide_border=true" />
+
+  <!-- Tarjeta de resumen de perfil -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waltersosa&theme=tokyonight" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=waltersosa&theme=radical&row=1&column=7&margin-w=10&margin-h=10" />
-</p>
-<br>
+
+  <!-- Trofeos compactos -->
+  <img src="https://github-profile-trophy.vercel.app/?username=waltersosa&theme=gruvbox&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
+  <br><br>
+
+  <!-- Contadores -->
+  <img src="https://komarev.com/ghpvc/?username=waltersosa&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/waltersosa?style=social" />
+  <br><br>
+
+  <p><strong>¡Gracias por visitar mi perfil! 🇪🇨</strong></p>
+</div>
