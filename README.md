@@ -64,10 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=waltersosa&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Estadísticas+de+GitHub" />
   <br><br>
 
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersosa&layout=compact&theme=tokyonight&hide_border=true" />
-  <br><br>
-
   <!-- Racha de commits -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltersosa&theme=tokyonight&hide_border=true" />
   <br><br>
@@ -81,7 +77,6 @@
   <br><br>
 
   <!-- Contadores -->
-  <img src="https://komarev.com/ghpvc/?username=waltersosa&style=flat-square" />
   <img src="https://img.shields.io/github/followers/waltersosa?style=social" />
   <br><br>
 
