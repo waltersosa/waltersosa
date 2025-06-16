@@ -57,12 +57,11 @@
 </ul>
 <br>
 
-<h2>GitHub :octocat:</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waltersosa&show_icons=true&theme=dark" />
+  
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltersosa&theme=dark&hide_border=false" />
+  <h2>🏆 Repositorios con mayor contribución</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waltersosa&theme=github_dark" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersosa&theme=dark&layout=compact" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=waltersosa&limit=5" />
 </p>
 <br>
