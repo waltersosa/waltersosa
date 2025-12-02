@@ -59,19 +59,6 @@
 
 <h2>📊 Actividad y estadísticas de GitHub</h2>
 
-<div align="center">
-  <!-- Estadísticas principales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=waltersosa&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Estadísticas+de+GitHub" />
-  <br><br>
-
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltersosa&layout=compact&theme=tokyonight&hide_border=true" />
-  <br><br>
-
-  <!-- Racha de commits -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltersosa&theme=tokyonight&hide_border=true" />
-  <br><br>
-
   <!-- Tarjeta de resumen de perfil -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waltersosa&theme=tokyonight" />
   <br><br>
